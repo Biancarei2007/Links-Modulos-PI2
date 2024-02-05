@@ -1,6 +1,6 @@
 # Página de links dos Módulos PI2 - Bianca Rei
 
-![Imagem de resultado do projeto](./assets/links.png)
+![Imagem de resultado do projeto](/assets/links.png)
 <br>
 
 > 🚀 <a href="https://links-modulos-pi-1.vercel.app/">Acesse aqui</a>
